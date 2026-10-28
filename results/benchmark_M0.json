@@ -1,0 +1,12 @@
+{
+  "variant": "M0",
+  "examples": 50,
+  "pass_seconds": [
+    124.08801790000871,
+    112.64970389998052,
+    113.60608420002973
+  ],
+  "median_seconds": 113.60608420002973,
+  "examples_per_second": 0.4401172732259961,
+  "peak_allocated_cuda_bytes": 1624698368
+}

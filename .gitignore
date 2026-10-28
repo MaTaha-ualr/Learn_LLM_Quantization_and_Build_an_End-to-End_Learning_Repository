@@ -1,0 +1,21 @@
+# Python caches and virtual environments
+src/__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Large generated model checkpoints and training state
+outputs/best_adapter/
+outputs/training/
+outputs/M1_int8/
+outputs/M2_merged/
+outputs/M3_int8/
+
+# Dataset source text and local derived splits. Obtain the source data under its terms.
+Data/dataset/
+Data/curated/*.json
+Data/curated/schema.*
+
+# Per-example predictions can contain source sentence text; keep compact metrics only.
+outputs/baseline.json
+outputs/test_M*.jsonl

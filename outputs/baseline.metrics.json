@@ -1,0 +1,11 @@
+{
+  "examples": 50,
+  "gold_entities": 139,
+  "captured_gold_entities": 82,
+  "gold_entity_recall": 0.5899280575539568,
+  "examples_with_all_gold_entities_captured": 14,
+  "complete_example_rate": 0.28,
+  "valid_json_examples": 49,
+  "valid_json_rate": 0.98,
+  "scoring": "Exact entity text and label recall; extra predictions are ignored."
+}

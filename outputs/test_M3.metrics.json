@@ -1,0 +1,11 @@
+{
+  "modal": "finetuned quantized",
+  "examples": 50,
+  "gold_entities": 139,
+  "captured_gold_entities": 105,
+  "gold_entity_recall": 0.7553956834532374,
+  "examples_with_all_gold_entities_captured": 28,
+  "complete_example_rate": 0.56,
+  "valid_json_rate": 0.96,
+  "scoring": "Exact entity text and label recall; extra predictions are ignored."
+}

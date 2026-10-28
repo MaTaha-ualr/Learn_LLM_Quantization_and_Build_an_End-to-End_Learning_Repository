@@ -1,0 +1,9 @@
+transformers
+accelerate
+tqdm
+trl
+peft
+datasets
+torchao>=0.17
+huggingface_hub
+pillow

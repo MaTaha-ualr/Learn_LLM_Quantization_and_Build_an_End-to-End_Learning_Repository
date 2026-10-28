@@ -1,0 +1,5 @@
+variant,examples,gold_entities,captured_gold_entities,gold_entity_recall,examples_with_all_gold_entities_captured,complete_example_rate,valid_json_rate,scoring
+M0,50,139,90,0.6474820143884892,15,0.3,0.92,Exact entity text and label recall; extra predictions are ignored.
+M1,50,139,80,0.5755395683453237,14,0.28,0.86,Exact entity text and label recall; extra predictions are ignored.
+M2,50,139,104,0.7482014388489209,27,0.54,0.96,Exact entity text and label recall; extra predictions are ignored.
+M3,50,139,105,0.7553956834532374,28,0.56,0.96,Exact entity text and label recall; extra predictions are ignored.
